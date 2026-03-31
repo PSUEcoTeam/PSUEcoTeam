@@ -13,6 +13,12 @@
 ![Autonomous](https://img.shields.io/badge/Autonomous-2026_Pioneer-302b63?style=for-the-badge&logo=tesla&logoColor=white)
 ![Vision2030](https://img.shields.io/badge/Saudi-Vision_2030-006c35?style=for-the-badge)
 
+<br/>
+
+<img src="https://raw.githubusercontent.com/PSUEcoTeam/PSUEcoTeam/main/assets/teampic.jpg" width="85%" style="border-radius: 12px;"/>
+
+<br/><sub><i>PSU Eco Team — Shell Eco-Marathon · Technical Inspection Passed</i></sub>
+
 </div>
 
 ---
@@ -28,6 +34,18 @@
 We are the **#1-ranked team in the Middle East** with consecutive titles since 2022, top finishes across **Asia Pacific**, and in 2026 we make history as the **first Saudi team** to compete in the **Autonomous category** at Shell Eco-Marathon Europe & Africa, Silesia Ring, Poland.
 
 > *We don't just build cars. We build engineers.*
+
+---
+
+## Our Vehicle
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/PSUEcoTeam/PSUEcoTeam/main/assets/carpic.JPG" width="85%" style="border-radius: 12px;"/>
+
+<br/><sub><i>PSU Eco Team Electric Urban Concept vehicle — Losail International Circuit, Qatar</i></sub>
+
+</div>
 
 ---
 
@@ -143,13 +161,16 @@ Recognized by **Shell International** and featured in regional innovation and su
 <br/>
 
 <a href="https://www.ceermotors.com" target="_blank">
-  <img src="https://logo.clearbit.com/ceermotors.com" alt="CEER Motors" height="60" style="border-radius: 8px; background: white; padding: 8px;"/>
+  <img src="https://raw.githubusercontent.com/PSUEcoTeam/PSUEcoTeam/main/assets/ceer_logo.webp" alt="CEER Motors" height="70"/>
 </a>
 
+<br/><br/>
+
 **[CEER Motors](https://www.ceermotors.com)**
+<br/>
 *Title Sponsor — Saudi Arabia's first electric vehicle brand*
 
-<br/>
+<br/><br/>
 
 ---
 
@@ -160,14 +181,14 @@ Recognized by **Shell International** and featured in regional innovation and su
 <table>
 <tr>
 <td align="center" width="50%">
-<img src="https://logo.clearbit.com/jahez.net" alt="Jahez" height="50" style="border-radius: 8px;"/>
+<img src="https://raw.githubusercontent.com/PSUEcoTeam/PSUEcoTeam/main/assets/logo-jahez.jpg" alt="Jahez" height="60" style="border-radius: 8px;"/>
 <br/><br/>
 <b>Jahez</b>
 <br/>
 <sub>Technology & Innovation Sponsor</sub>
 </td>
 <td align="center" width="50%">
-<img src="https://img.shields.io/badge/PSDSARC-Prince_Sultan_Defense_Studies_%26_Research_Center-1a1a2e?style=for-the-badge" alt="PSDSARC"/>
+<img src="https://raw.githubusercontent.com/PSUEcoTeam/PSUEcoTeam/main/assets/psdsarc.png" alt="PSDSARC" height="60" style="border-radius: 8px;"/>
 <br/><br/>
 <b>PSDSARC</b>
 <br/>

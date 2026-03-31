@@ -49,27 +49,6 @@ We are the **#1-ranked team in the Middle East** with consecutive titles since 2
 
 ---
 
-## 2026 Autonomous Mission
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║              PSU ECO TEAM — AUTONOMOUS STACK 2026            ║
-╠══════════════════════════════════════════════════════════════╣
-║  PERCEPTION   →  RealSense D435i + ZED 2 | YOLOv8 | OpenCV  ║
-║  PLANNING     →  Path planning + obstacle avoidance | ROS 2  ║
-║  CONTROL      →  Drive-by-wire (throttle · steering · brake) ║
-║  COMPUTE      →  NVIDIA Jetson Orin NX                       ║
-║  TELEMETRY    →  MQTT | CAN bus | real-time dashboards       ║
-║  CONSTRAINT   →  Full autonomy within SEM energy limits      ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
 ## What We Build
 
 <table>
@@ -220,6 +199,7 @@ Recognized by **Shell International** and featured in regional innovation and su
 [![Instagram](https://img.shields.io/badge/Instagram-@psueteam-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/psueteam/)
 [![YouTube](https://img.shields.io/badge/YouTube-Watch_Our_Documentary-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=DWFkZ39unWA&t=3s)
 [![University](https://img.shields.io/badge/PSU-Prince_Sultan_University-003366?style=for-the-badge)](https://www.psu.edu.sa)
+[![Email](https://img.shields.io/badge/Email-visionteam@psu.edu.sa-0f3460?style=for-the-badge&logo=gmail&logoColor=white)](mailto:visionteam@psu.edu.sa)
 
 <br/>
 
